@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App7_listaContatos</string>
+    <string name="user_edit_text">Usuário</string>
+    <string name="username_edit_text">Nome do usuário</string>
+    <string name="newcontact_edit_text">Nome do Contato</string>
+    <string name="apelido_edit_text">Apelido</string>
+    <string name="tel_edit_text">Telefone</string>
+    <string name="password_edit_text">Senha</string>
+    <string name="createpassword_edit_text">Senha</string>
+    <string name="confirmpassword_edit_text">Confirmar senha</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_newuser">Novo usuário</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_call">Ligar</string>
+    <string name="btn_newcontact">Novo contato</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="confirm_error">Senhas diferentes</string>
+    <string name="login_error">User ou Senha incorreto</string>
+    <string name="user_error">Usuario não cadastrado</string>
+    <string name="text_message">Selecione o contato:</string>
+    <string name="btn_list">Listar Contatos</string>
+    <string name="btn_new">Adicionar contato</string>
+    <string name="use_edit_text">Usuário relacionado ao contato</string>
+    <string name="consultar">consultar</string>
+    <string name="id_error">Usuario não cadastrado</string>
+</resources>
